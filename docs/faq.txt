@@ -1,0 +1,31 @@
+TechNova SaaS Platform - Frequently Asked Questions
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password". Enter your email address and you will receive a reset link within 5 minutes. Check your spam folder if you don't see it.
+
+Q: What payment methods do you accept?
+A: We accept Visa, Mastercard, American Express, and PayPal. All payments are processed securely through Stripe.
+
+Q: Can I cancel my subscription at any time?
+A: Yes. You can cancel anytime from your Account Settings page. Your access continues until the end of your current billing period. We do not offer refunds for partial months.
+
+Q: How many users can I add to my account?
+A: The Starter plan allows up to 5 users. The Pro plan allows up to 25 users. The Enterprise plan has no user limit.
+
+Q: Is my data backed up?
+A: Yes. All data is automatically backed up every 24 hours. Backups are retained for 30 days. Enterprise customers get real-time backups.
+
+Q: How do I contact support?
+A: You can reach our support team via live chat inside the app, or by emailing support@technova.io. Our support hours are Monday to Friday, 9am to 6pm GMT.
+
+Q: Do you offer a free trial?
+A: Yes. All new accounts get a 14-day free trial with full access to Pro features. No credit card required to start.
+
+Q: What happens to my data if I cancel?
+A: Your data is retained for 60 days after cancellation. You can export it at any time during that period. After 60 days it is permanently deleted.
+
+Q: Is TechNova GDPR compliant?
+A: Yes. TechNova is fully GDPR compliant. We are based in the EU and all data is stored on EU servers. You can request a Data Processing Agreement from our legal team.
+
+Q: Can I integrate TechNova with other tools?
+A: Yes. We integrate with Slack, Google Workspace, Microsoft Teams, Zapier, and over 50 other tools via our API. Full documentation is available at docs.technova.io.
